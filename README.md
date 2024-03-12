@@ -14,7 +14,7 @@ After you join the study, the app will display a study-specific consent document
 
 ## Questions?
 
-If you have any questions about this app please contact the lead developer (Amarin Siripanich, contact -at- fourstep.dev).
+If you have any questions about this app please contact the the development team (via this email: rciti.survey@unsw.edu.au).
 
 ## Next steps
 
